@@ -1,8 +1,5 @@
-{
-"totalPassengers": 28640,
-"totalPages": 2864,
-"data": [
-{
+[
+    {
 "_id": "5ff5bc21522101b321a9a4b5",
 "name": "Leonardo",
 "trips": 250,
@@ -183,4 +180,3 @@
 "__v": 0
 }
 ]
-}
