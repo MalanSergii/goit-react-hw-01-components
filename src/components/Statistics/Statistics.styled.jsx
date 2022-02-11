@@ -35,7 +35,7 @@ export const Item = styled.li`
     }
 `;
 
-export const Persentage = styled.span`
+export const Percentage = styled.span`
     font-size:20px;
     margin-top: 5px;
     font-weight:bold;

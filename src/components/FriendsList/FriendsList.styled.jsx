@@ -8,9 +8,11 @@ export const List = styled.ul`
     padding:20px;
     margin-right:auto;
     margin-left:auto;
+    margin-bottom:60px;
     display: flex;
     flex-direction:column;
-    align-items:center;`;
+    align-items:center;
+    `;
     
 
 export const Item = styled.li`
