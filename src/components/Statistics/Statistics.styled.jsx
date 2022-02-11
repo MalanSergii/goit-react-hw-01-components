@@ -29,7 +29,7 @@ export const Item = styled.li`
     flex-direction:column;
     width:100%;
     padding:10px;
-    background-color: var(--grey_color);
+    background-color: rgb(211, 230, 251);
     :not(:last-child){
         border-right: 1px solid grey; 
     }
@@ -39,4 +39,5 @@ export const Persentage = styled.span`
     font-size:20px;
     margin-top: 5px;
     font-weight:bold;
-    color:white;`;
+    color:grey;
+    `;
